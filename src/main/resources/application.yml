@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: gradle
+  server:
+    port: '-1'
